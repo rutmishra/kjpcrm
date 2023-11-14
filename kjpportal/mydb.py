@@ -9,7 +9,7 @@ import mysql.connector
 dataBase = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    passwd = 'default'
+    passwd = '@U9#5o!4.'
 )
 
 #prepare a cursor object
